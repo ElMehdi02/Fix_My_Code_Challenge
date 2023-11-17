@@ -12,5 +12,5 @@ with, others of which I was not. The specific list of projects contained follows
 ## Twitter
 * **[Bensouda El Mehdi](https://twitter.com/el_bensouda)**
 
-## GitHub
-* **[Bensouda El Mehdi](https://github.com/ElMehdi02)**
+## LinkedIn
+* **[Bensouda El Mehdi](https://www.linkedin.com/in/el-mehdi-bensouda-b754481b1/)**
